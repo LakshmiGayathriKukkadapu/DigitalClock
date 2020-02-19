@@ -1,0 +1,15 @@
+﻿
+/***import Google font *****/
+@import url ('https://fonts.googleapis.com/css?family=Orbitron');
+
+body {
+    background-color:#121212;
+}
+#digitalClock{
+    font-family: 'Orbitron';
+    color: #66ff99;
+    font-size: 25px;
+    text-align: right;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
